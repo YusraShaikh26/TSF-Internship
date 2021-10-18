@@ -1,2 +1,2 @@
 # TSF-Internship
-Prediction using Suprised ML
+TSF Internship Task 1 - Prediction using Suprised ML
